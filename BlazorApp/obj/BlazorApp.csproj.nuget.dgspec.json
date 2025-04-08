@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Blazor GitHub Test1\\testing-github-blazor2\\BlazorApp\\BlazorApp.csproj": {}
+    "C:\\Blazor Git Test1\\testing-github-blazor2\\BlazorApp\\BlazorApp.csproj": {}
   },
   "projects": {
-    "C:\\Blazor GitHub Test1\\testing-github-blazor2\\BlazorApp\\BlazorApp.csproj": {
+    "C:\\Blazor Git Test1\\testing-github-blazor2\\BlazorApp\\BlazorApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Blazor GitHub Test1\\testing-github-blazor2\\BlazorApp\\BlazorApp.csproj",
+        "projectUniqueName": "C:\\Blazor Git Test1\\testing-github-blazor2\\BlazorApp\\BlazorApp.csproj",
         "projectName": "BlazorApp",
-        "projectPath": "C:\\Blazor GitHub Test1\\testing-github-blazor2\\BlazorApp\\BlazorApp.csproj",
+        "projectPath": "C:\\Blazor Git Test1\\testing-github-blazor2\\BlazorApp\\BlazorApp.csproj",
         "packagesPath": "C:\\Users\\jasmi\\.nuget\\packages\\",
-        "outputPath": "C:\\Blazor GitHub Test1\\testing-github-blazor2\\BlazorApp\\obj\\",
+        "outputPath": "C:\\Blazor Git Test1\\testing-github-blazor2\\BlazorApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jasmi\\AppData\\Roaming\\NuGet\\NuGet.Config"
