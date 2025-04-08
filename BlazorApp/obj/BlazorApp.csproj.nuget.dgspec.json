@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Blazor GitHub Test1\\testing-github-blazor2\\BlazorApp\\BlazorApp.csproj": {}
+    "E:\\Kuliah\\Semester6\\Magang\\16TestingGithubProjectBolonganNoReadme\\BlazorApp\\BlazorApp.csproj": {}
   },
   "projects": {
-    "C:\\Blazor GitHub Test1\\testing-github-blazor2\\BlazorApp\\BlazorApp.csproj": {
+    "E:\\Kuliah\\Semester6\\Magang\\16TestingGithubProjectBolonganNoReadme\\BlazorApp\\BlazorApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Blazor GitHub Test1\\testing-github-blazor2\\BlazorApp\\BlazorApp.csproj",
+        "projectUniqueName": "E:\\Kuliah\\Semester6\\Magang\\16TestingGithubProjectBolonganNoReadme\\BlazorApp\\BlazorApp.csproj",
         "projectName": "BlazorApp",
-        "projectPath": "C:\\Blazor GitHub Test1\\testing-github-blazor2\\BlazorApp\\BlazorApp.csproj",
-        "packagesPath": "C:\\Users\\jasmi\\.nuget\\packages\\",
-        "outputPath": "C:\\Blazor GitHub Test1\\testing-github-blazor2\\BlazorApp\\obj\\",
+        "projectPath": "E:\\Kuliah\\Semester6\\Magang\\16TestingGithubProjectBolonganNoReadme\\BlazorApp\\BlazorApp.csproj",
+        "packagesPath": "C:\\Users\\Acer\\.nuget\\packages\\",
+        "outputPath": "E:\\Kuliah\\Semester6\\Magang\\16TestingGithubProjectBolonganNoReadme\\BlazorApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\jasmi\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Acer\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
@@ -62,7 +62,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
