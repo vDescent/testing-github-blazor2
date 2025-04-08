@@ -8,19 +8,19 @@
     "net9.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Acer\\.nuget\\packages\\": {}
+    "C:\\Users\\jasmi\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Kuliah\\Semester6\\Magang\\16TestingGithubProjectBolonganNoReadme\\BlazorApp\\BlazorApp.csproj",
+      "projectUniqueName": "C:\\Blazor Git Test1\\testing-github-blazor2\\BlazorApp\\BlazorApp.csproj",
       "projectName": "BlazorApp",
-      "projectPath": "E:\\Kuliah\\Semester6\\Magang\\16TestingGithubProjectBolonganNoReadme\\BlazorApp\\BlazorApp.csproj",
-      "packagesPath": "C:\\Users\\Acer\\.nuget\\packages\\",
-      "outputPath": "E:\\Kuliah\\Semester6\\Magang\\16TestingGithubProjectBolonganNoReadme\\BlazorApp\\obj\\",
+      "projectPath": "C:\\Blazor Git Test1\\testing-github-blazor2\\BlazorApp\\BlazorApp.csproj",
+      "packagesPath": "C:\\Users\\jasmi\\.nuget\\packages\\",
+      "outputPath": "C:\\Blazor Git Test1\\testing-github-blazor2\\BlazorApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Acer\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\jasmi\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
@@ -68,7 +68,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
